@@ -7,12 +7,19 @@ h1{
   color: #FFE1EA;
   text-decoration: underline;
   text-decoration-color: #FFE1EA;
-  font-family: "Papyrus";
+  font-family: "Lucida Console";
 }
 p{
   font-size: 200%;
   color: #FFE1EA;
   text-decoration: underline;
+}
+h4{
+  font-size:100%;
+  letter-spacing: 2px;
+  color: #FFE1EA;
+  text-decoration-color: #FFE1EA;
+  font-family: "Lucida Console";
 }
 img{
   width: 500px;
@@ -22,7 +29,7 @@ img{
 ul{
   text-align: center;
   list-style-type: none;
-  font-family: "Papyrus";
+  font-family: "Lucida Console";
   position: fixed; 
 }
 li{
